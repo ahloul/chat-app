@@ -16,3 +16,10 @@ yarn run test
 ```
 
 the port is 3078
+
+### swagger api documentation
+```bash
+
+http://localhost:3078/api
+
+```
